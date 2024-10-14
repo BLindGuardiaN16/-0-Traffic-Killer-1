@@ -1,1 +1,1 @@
-This game developed 22.10.2023 and it is my first shared project on Github. But it is not my first game project. I know and i blieve i will develop better than that. Thank you and happy developments. 
+This game has developed with UnityEngine C#. 
